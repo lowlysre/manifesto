@@ -8,45 +8,45 @@ Version 0.1.0
     Refused, "Summerholidays vs. Punkroutine"
 
 
-We start from humanism: we judge software, and the way it gets built, by
-what it does to people before what it earns. This is a statement of what
-that requires of us.
+We start from humanism: we judge software and the way it gets built by
+what it does to people, not only by its profits. This is a statement of
+what that requires of us.
 
 Through this work, we have come to value:
 
   - People over profit
   - Understanding over speed
   - Maintaining over launching
-  - Sustainable pace over heroics
-  - Fixing the system over blaming the person
+  - Sustainability over heroics
+  - Blameless fixes over finding fault
 
 
 WE BELIEVE
 
   1. Software exists for people, and people pay for its failures.
 
-  2. Not all users choose to be one. Employers, schools, hospitals, and
-     governments require people to use software, and those people
+  2. Not every user chooses to be one. Employers, schools, hospitals,
+     and governments require people to use software, and those people
      can't leave. We owe them more for it.
 
   3. The people affected by our shortcuts can't see them, but they feel
      them.
 
-  4. Profitable and right are separate tests. Software can pass one and
-     fail the other.
+  4. Profitable and right are not the same, and software should meet
+     both bars.
 
   5. Someone has to operate everything we build, for longer than it took
      to build.
 
   6. Only a person can answer for what a model writes.
 
-  7. People pay for our tools: low-paid data workers and authors
-     whose work continues to be taken without consent.
+  7. People pay for our tools: low-paid data workers and authors whose
+     work continues to be taken without consent.
 
   8. People learn by getting stuck. Take that away and they stop
      learning.
 
-  9. Care is easy to exploit, and it's cheaper than fair pay.
+  9. Altruism is easy to exploit, and cheaper than fair compensation.
 
  10. A heroic save means a person absorbed a cost the system should have
      carried.
@@ -56,8 +56,7 @@ THUS WE RESOLVE THAT
 
   1. We ship only what we believe is safe for the people who use it.
 
-  2. We refuse to build what harms the people it's built for, and we
-     say so out loud.
+  2. We refuse to build what harms people, and we say so out loud.
 
   3. We report risks early and in writing, even when it's unwelcome.
 
@@ -66,8 +65,8 @@ THUS WE RESOLVE THAT
   5. We write for the next person: why we did it and what we didn't
      test.
 
-  6. We read and own what an agent wrote, and we don't send work that
-     costs more to review than it gives back.
+  6. We own what an agent wrote, and we don't send work that costs more
+     to review than it gives back.
 
   7. Nobody is forced to use AI, and nobody is shamed for using it or
      for declining to.
@@ -78,11 +77,10 @@ THUS WE RESOLVE THAT
   9. When a mistake happens twice, we fix the system instead of blaming
      the person.
 
- 10. Anyone can set a limit without losing standing, and we back them
-     when they do.
+ 10. Anyone can pause work for a concern without losing standing.
 
 
-AND FINALLY
+FINALLY
 
 This is a living document. It will continue to be revised, adapted, and
 improved. Feedback is welcome.
