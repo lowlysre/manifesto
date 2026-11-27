@@ -1,8 +1,9 @@
+========================================================================
 THE LOWLY MANIFESTO
-
 A software engineering manifesto
 
-Version 0.2.0
+Version 0.2.1
+========================================================================
 
 
     Rather be forgotten than remembered for giving in.
@@ -24,6 +25,7 @@ Through this work, we have come to value:
 
 
 WE BELIEVE
+==========
 
   1. Software exists for people, and people pay for its failures.
 
@@ -55,6 +57,7 @@ WE BELIEVE
 
 
 THUS WE RESOLVE THAT
+====================
 
   1. We ship only what we believe is safe for the people who use it.
 
@@ -83,12 +86,14 @@ THUS WE RESOLVE THAT
 
 
 FINALLY
+=======
 
 This is a living document. It will continue to be revised, adapted, and
 improved. Feedback is welcome.
 
 
 INFLUENCES
+==========
 
   - IEEE-CS/ACM Code of Ethics
     https://www.computer.org/education/code-of-ethics
@@ -114,6 +119,7 @@ INFLUENCES
 
 
 LICENSE
+=======
 
 Copyright (c) 2026 John McCall. Licensed under CC BY 4.0: share it and
 adapt it, with credit.
