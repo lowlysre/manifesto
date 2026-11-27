@@ -1,6 +1,8 @@
-A SOFTWARE ENGINEERING MANIFESTO
+THE LOWLY MANIFESTO
 
-Version 0.1.0
+A software engineering manifesto
+
+Version 0.2.0
 
 
     Rather be forgotten than remembered for giving in.
