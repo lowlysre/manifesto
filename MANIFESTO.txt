@@ -1,0 +1,120 @@
+A SOFTWARE ENGINEERING MANIFESTO
+
+Version 0.1.0
+
+
+    Rather be forgotten than remembered for giving in.
+
+    Refused, "Summerholidays vs. Punkroutine"
+
+
+We start from humanism: we judge software, and the way it gets built, by
+what it does to people before what it earns. This is a statement of what
+that requires of us.
+
+Through this work, we have come to value:
+
+  - People over profit
+  - Understanding over speed
+  - Maintaining over launching
+  - Sustainable pace over heroics
+  - Fixing the system over blaming the person
+
+
+WE BELIEVE
+
+  1. Software exists for people, and people pay for its failures.
+
+  2. Not all users choose to be one. Employers, schools, hospitals, and
+     governments require people to use software, and those people
+     can't leave. We owe them more for it.
+
+  3. The people affected by our shortcuts can't see them, but they feel
+     them.
+
+  4. Profitable and right are separate tests. Software can pass one and
+     fail the other.
+
+  5. Someone has to operate everything we build, for longer than it took
+     to build.
+
+  6. Only a person can answer for what a model writes.
+
+  7. People pay for our tools: low-paid data workers and authors
+     whose work continues to be taken without consent.
+
+  8. People learn by getting stuck. Take that away and they stop
+     learning.
+
+  9. Care is easy to exploit, and it's cheaper than fair pay.
+
+ 10. A heroic save means a person absorbed a cost the system should have
+     carried.
+
+
+THUS WE RESOLVE THAT
+
+  1. We ship only what we believe is safe for the people who use it.
+
+  2. We refuse to build what harms the people it's built for, and we
+     say so out loud.
+
+  3. We report risks early and in writing, even when it's unwelcome.
+
+  4. We schedule, staff, and credit maintenance the way we do launches.
+
+  5. We write for the next person: why we did it and what we didn't
+     test.
+
+  6. We read and own what an agent wrote, and we don't send work that
+     costs more to review than it gives back.
+
+  7. Nobody is forced to use AI, and nobody is shamed for using it or
+     for declining to.
+
+  8. We protect time to learn by doing, especially for people new to the
+     work.
+
+  9. When a mistake happens twice, we fix the system instead of blaming
+     the person.
+
+ 10. Anyone can set a limit without losing standing, and we back them
+     when they do.
+
+
+AND FINALLY
+
+This is a living document. It will continue to be revised, adapted, and
+improved. Feedback is welcome.
+
+
+INFLUENCES
+
+  - IEEE-CS/ACM Code of Ethics
+    https://www.computer.org/education/code-of-ethics
+
+  - No AI Slop: A Manifesto
+    https://www.slopmanifesto.com/
+
+  - Fobazi Ettarh, Vocational Awe and Librarianship
+    https://www.inthelibrarywiththeleadpipe.org/2018/vocational-awe/
+
+  - Kaizen
+    https://en.wikipedia.org/wiki/Kaizen
+
+  - Using LLMs to Develop Software: Ethics, Risks, and Responsible
+    Practice
+    https://responsibleai.guide
+
+  - John McCall, Ritual Sacrifices
+    https://www.lowlydba.com/ritual-sacrifices/
+
+  - Refused, "Summerholidays vs. Punkroutine"
+    https://genius.com/Refused-summer-holidays-vs-punk-routine-lyrics
+
+
+LICENSE
+
+Copyright (c) 2026 John McCall. Licensed under CC BY 4.0: share it and
+adapt it, with credit.
+https://creativecommons.org/licenses/by/4.0/
